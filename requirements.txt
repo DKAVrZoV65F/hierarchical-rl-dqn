@@ -86,7 +86,7 @@ stack-data==0.6.3
 sympy==1.13.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.10.1
+tensorflow==2.12.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-macos==2.16.2
 tensorflow-metal==1.1.0
